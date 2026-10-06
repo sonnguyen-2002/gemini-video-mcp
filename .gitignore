@@ -1,0 +1,11 @@
+.venv/
+.secrets/
+results/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.mp4
+*.mov
+*.webm
+*.zip
